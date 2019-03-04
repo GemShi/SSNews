@@ -2,7 +2,7 @@
 //  Emoji.swift
 //  News
 //
-//  Created by 杨蒙 on 2017/12/18.
+//  Created by GemShi on 2017/12/18.
 //  Copyright © 2017年 hrscy. All rights reserved.
 //
 

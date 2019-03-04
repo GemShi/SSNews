@@ -2,7 +2,7 @@
 //  Calculate.swift
 //  News
 //
-//  Created by 杨蒙 on 2017/12/10.
+//  Created by GemShi on 2017/12/10.
 //  Copyright © 2017年 hrscy. All rights reserved.
 //
 
