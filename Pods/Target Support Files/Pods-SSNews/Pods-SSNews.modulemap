@@ -1,0 +1,6 @@
+framework module Pods_SSNews {
+  umbrella header "Pods-SSNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
